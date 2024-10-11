@@ -1,5 +1,5 @@
 # Resume Parser
-Resume Parser for hiring company or HR department using groq, langchain. Simply provide Resume PDF file, it will extract candidate data, and provide you candidate data in JSON format. Which can be saved to Database or create a micro service API, where you can upload candidate's Resume PDF, and it will return candidate data in JSON format. 
+Resume Parser for hiring company or HR department using pdfminer, groq, langchain. Simply provide Resume PDF file, it will extract candidate data, and provide you candidate data in JSON format. Which can be saved to Database or create a micro service API, where you can upload candidate's Resume PDF, and it will return candidate data in JSON format. 
 
 # Setup
 1. create `.env` file
